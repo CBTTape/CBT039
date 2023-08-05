@@ -1,0 +1,12 @@
+2023-08-06 00:31:39.085111 - Initialized conversion of CBT039
+2023-08-06 00:31:39.181133 - Received CBT.V505.FILE039.PDS from FILE039.XMI 
+2023-08-06 00:31:39.183278 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:31:39.184404 - Found $$DOCUPD.txt (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/$$DOCUPD
+2023-08-06 00:31:39.185498 - Found $$IPODOC.txt (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/$$IPODOC
+2023-08-06 00:31:39.186407 - Found @FILE039.txt (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/@FILE039
+2023-08-06 00:31:39.187271 - Found ALTERN.txt (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/ALTERN
+2023-08-06 00:31:39.188244 - Found CPPZAP.jcl (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/CPPZAP
+2023-08-06 00:31:39.189215 - Found IPOZAP.jcl (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/IPOZAP
+2023-08-06 00:31:39.190239 - Found RCNVTCA$.jcl (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/RCNVTCA$
+2023-08-06 00:31:39.191229 - Found RCNVTCAT.rexx (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/RCNVTCAT
+2023-08-06 00:31:39.192160 - Found SMF1415.txt (text/plain) in CBT.V505.FILE039.PDS, moved to PDS/SMF1415
